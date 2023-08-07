@@ -60,11 +60,7 @@ const Header = (props) => {
             Resume Templates
             </NavLink>
             </li> 
-            <li className="holder-pricing">            
-              <NavLink className="btn-nvt-gm" to="/about-us">
-              About Us
-              </NavLink>
-            </li>        
+                    
           </ul>
             
       </div>   
